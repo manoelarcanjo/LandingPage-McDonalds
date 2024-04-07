@@ -1,0 +1,19 @@
+.promo {
+  background-color: #feb706;
+  padding: 4rem;
+  text-align: center;
+}
+.promo h2 {
+  color: #FFFFFF;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+.promo div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.promo div h3 {
+  font-size: 1rem;
+}/*# sourceMappingURL=Promo.module.css.map */

@@ -1,0 +1,20 @@
+.ftr {
+  padding: 1rem 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ftr img {
+  transition: all 0.3s ease-in-out;
+}
+.ftr img:hover {
+  transform: scale(1.1);
+}
+.ftr div {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.ftr p {
+  font-weight: 100;
+}/*# sourceMappingURL=Footer.module.css.map */

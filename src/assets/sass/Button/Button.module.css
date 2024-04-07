@@ -1,0 +1,17 @@
+.btn {
+  background-color: #ffc72c;
+  border-radius: 0.5rem;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.8rem 2rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #feb706;
+  transform: scale(1.1);
+}/*# sourceMappingURL=Button.module.css.map */

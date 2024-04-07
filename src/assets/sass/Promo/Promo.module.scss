@@ -1,0 +1,25 @@
+@import '../partials/colors';
+
+.promo {
+    background-color: $secondary-color;
+    padding: 4rem;
+    text-align: center;
+
+    h2 {
+        color: $white-color;
+        font-size: 3rem;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+
+    }
+
+    div {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        h3 {
+            font-size: 1rem;
+        }
+    }
+}
